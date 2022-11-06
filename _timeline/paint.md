@@ -8,5 +8,8 @@ events:
   - smalltalk-paint 
   - macpaint-prototype
   - macpaint
+  - photoshop1988
+  - photoshop-2016
+  - gimp-1
 ---
 
