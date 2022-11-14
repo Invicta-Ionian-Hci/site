@@ -19,4 +19,6 @@ events:
   - children-alto
   - xerox-star-pc
   - digital-desk
+  - att-unix-pc
+  - magic-desk-commodore64
 ---
