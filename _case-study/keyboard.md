@@ -12,4 +12,4 @@ tags:
   - Λειτουργίες
 ---
 
-{% include magic-desk-commodore64.md %}
+{% include cs-keyboard.md %}
