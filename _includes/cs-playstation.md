@@ -4,24 +4,24 @@
 To playstation1[^1] είναι η πρώτη κονσόλα της σειράς PlayStation
 με τις πωλήσεις του να φτάνουν γύρω στα 100 εκατομμύρια κομμάτια.
 
-{% include figure image_path="/images/PS1.jpg" caption="Το playstation 1 απο το όποι ξεκίνησαν όλα." id="fig:damosword" %}
+{% include figure image_path="/images/PS1.jpg" caption="Το playstation 1 απο το όποι ξεκίνησαν όλα." id="fig:PS1" %}
 
 Μετά από αυτή την τεράστια επιτυχία της Sony, το 2000, κυκλοφόρησε το PlayStation 2.[^2] Κατάφερε να σπάσει το ρεκόρ πωλήσεων από κάθε κονσόλα που κυκλοφόρησε μέχρι σήμερα, φτάνοντας στα 155 εκατομμύρια κονσόλες παγκοσμίως.
 Αυτό το γεγονός οφείλεται κυρίως στο ότι η κονσόλα μπορούσε να διαβάσει δίσκους από DVD. Εκείνη την εποχή τα DVD-player κόστιζαν περίπου  στην ιδιά τιμή με την κονσόλα. Οπότε σύμφερε περισσότερο να αγοράσει την κονσόλα ο μέσος καταναλωτής, ακόμα και αν δεν έχει τόσο ενδιαφέρον στην πλευρά των βιντεοπαιχνιδιών. Έπειτα για αυτό τον λόγο ξεκίνησαν να πέφτουν και οι τιμές στα DVD-player.
 
-{% include figure image_path="/images/ps2.jpg" caption="To playstation 2 που έκανε ρεκορ πωλήσεων." id="fig:damosword" %}
+{% include figure image_path="/images/ps2.jpg" caption="To playstation 2 που έκανε ρεκορ πωλήσεων." id="fig:ps2" %}
 
 Το 2006 κυκλοφόρησε το Playstation 3[^3], μετρώντας περίπου 87 εκατομμύρια πωλήσεις. Αλλά το ρεκόρ που έσπασε, ήταν στις περισσότερες πωλήσεις στη μέρα κυκλοφορίας. Γύρω στα 600.000 κομμάτια μόνο στις πρώτες δυο μέρες, ασχέτως που η πρώτη «φουρνιά» είχε διάφορα τεχνικά προβλήματα.
 
-{% include figure image_path="/images/ps3.jpg" caption="To playstation 3." id="fig:damosword" %}
+{% include figure image_path="/images/ps3.jpg" caption="To playstation 3." id="fig:ps3" %}
 
 Η Sony κυκλοφόρησε το playstation 4[^4] τον Φεβρουάριο του 2013 ως διάδοχο του playstation 3. Η νέα έκδοση του playstation έδωσε νέες δυνατότητες στους χρήστες οι οποίοι μπορούν πλέον να απολαύσουν νέους τίτλους παιχνδιών με προηγμένα γραφικά που αγγίζουν την πραγματικότητα και νέες δυνατότητες τόσο στο ατομικό όσο και στο ομαδικό gaming. 
 
-{% include figure image_path="/images/ps4.jpg" caption="To playstation 4 που διαδέχτηκε το playstation 3." id="fig:damosword" %}
+{% include figure image_path="/images/ps4.jpg" caption="To playstation 4 που διαδέχτηκε το playstation 3." id="fig:ps4" %}
 
 Τέλος η νέα κονσόλα playstation 5[^5] κυκλοφόρησε τον Νοέμβριο του 2020. Αργότερα παρουσιάστηκε ένα πρόβλημα, το οποίο ήταν ότι κυκλοφόρησαν σχετικά λίγα κομμάτια.Το πρόβλημα όμως ξεπεράστηκε όπως και τα 
 
-{% include figure image_path="/images/ps5.jpg" caption="To playstation 5." id="fig:damosword" %}
+{% include figure image_path="/images/ps5.jpg" caption="To playstation 5." id="fig:ps5" %}
 
 [^1]: fig:PS1
 
