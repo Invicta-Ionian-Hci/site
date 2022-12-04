@@ -14,4 +14,6 @@ slides:
   - math-blaster
   - minecraft-end-user
   - kinect
+  - doom
+  - pinball-CS
 ---

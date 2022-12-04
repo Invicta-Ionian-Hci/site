@@ -19,4 +19,6 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  - doom
+  - pinball-CS
 ---
