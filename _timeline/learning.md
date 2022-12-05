@@ -19,6 +19,5 @@ events:
   - interactive-whiteboard
   - sugar-neighborhood
   - minecraft-end-user
-  - neos
 ---
 

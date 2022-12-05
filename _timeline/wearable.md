@@ -11,6 +11,5 @@ events:
   - vpl-data-suit
   - wearable
   - apple-smartwatch
-  - oculus-rift
 ---
 
