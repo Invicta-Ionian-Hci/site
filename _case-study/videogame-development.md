@@ -1,8 +1,8 @@
 ---
 author: GiorgosChiras
-title: "Videogame development"
+title: "Game Creation Systems"
 image_url: /images/cryEngine3.jpg
-caption: "Οι μηχανές παιχνιδιών θεωρούνται απο τα πιο περίπλοκα συστήματα στον τομέα του Software."
+caption: "Συστηματα δημιουργίας βιντεοπαιχνιδιών"
 categories:
   - Μελέτη Περίπτωσης
   - Βιντεοπαιχνίδια
