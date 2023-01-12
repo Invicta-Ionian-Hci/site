@@ -1,3 +1,4 @@
+---
 author: Thomasth01
 title: "Turbo Pascal"
 image_url: /images/turbopascal.png
@@ -10,4 +11,4 @@ tags:
   - success
 ---
 
-{% include cs-turbopascal.md}
+{% include cs-turbopascal.md %}
