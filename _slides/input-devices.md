@@ -11,5 +11,4 @@ slides:
   - chorded-keyboard
   - sage-lightgun
   - nls-mouse
-  - joystick
 ---
