@@ -12,4 +12,4 @@ tags:
   - Sony
 ---
 
-{% include bio-ken-kutaragi.md %}
+{% include bio-kutaragi.md %}
